@@ -1,3 +1,3 @@
 this is the kunal kushwaha page
- 1st aug 2021
- git and github tutorial
+1st aug 2021
+git and github tutorial
